@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Thinktecture.IdentityServer3.EntityFramework</id>
+    <id>Dayinsure.Thinktecture.IdentityServer3.EntityFramework</id>
     <version>0.0.0</version>
     <title>Thinktecture IdentityServer3 - Entity Framework</title>
     <authors>Brock Allen, Dominick Baier, and contributors</authors>
